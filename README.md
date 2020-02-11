@@ -1,5 +1,7 @@
 # ConfigMisc
 
+ARCHIVED - My configs are now in a single dotfiles repository: https://github.com/bew/dotfiles
+
 ## Installation
 
 ### clone
